@@ -1,1 +1,1 @@
-![Fikly's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiklycujud&show_icons=true&theme=tokyonight)
+![Fikly's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiklycujud&show_icons=true&theme=transparent)
