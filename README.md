@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fikri</h1>
 <h3 align="center">I am a newbie</h3>
-<div align=center>![Fikly's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiklycujud&show_icons=true&theme=transparent)</div>
+<div align="center">(https://github-readme-stats.vercel.app/api?username=fiklycujud&show_icons=true&theme=transparent)</div>
+![Fikly's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiklycujud&show_icons=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fiklycujud&theme=transparent)](https://git.io/streak-stats)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
