@@ -9,5 +9,3 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Etherthink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-<h1 align="center">Hi 👋, I'm Fikri</h1>
-<h3 align="center">I am a newbie</h3>
