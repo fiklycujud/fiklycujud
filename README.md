@@ -2,7 +2,7 @@
 <h3 align="center">I am a newbie</h3>
 
 <div align=center>
-  ![Fikly's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiklycujud&show_icons=true&theme=transparent)
+  [![Fikly's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiklycujud&show_icons=true&theme=transparent)
 </div>
 
 <h3 align="center">Connect with me:</h3>
